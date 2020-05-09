@@ -1,4 +1,7 @@
 # Optical-Flow
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)  [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) 
+
 Implementation of Lucas-Kanade and Horn-Schunck methods for optical flow
 
 ## Synthetic Sphere Images
